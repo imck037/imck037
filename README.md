@@ -7,5 +7,5 @@ I am proficient in C, Rust and Python.
 
 - I’m a long time linux user.
 - I have a understanding on operating system, networking and memory.
-- I am develop some system level applications.
+- I have develop some system level applications.
 - I also do backend.
